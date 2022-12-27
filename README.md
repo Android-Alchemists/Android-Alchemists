@@ -28,6 +28,10 @@ Here are some of our current projects:
 - [Blog](https://android-alchemists.com/blog): Our blog is a great resource for Android developers of all levels, with tips, tutorials, and best practices on a wide range of topics.
 - [Slack](https://android-alchemists.com/slack): Join our Slack community to connect with other Android developers and get help with your projects.
 - [Twitter](https://twitter.com/android_alchemists): Follow us on Twitter to stay up to date on the latest Android development news and updates from our organization.
+- 
+## Discord Channel
+Join our Discord channel to connect with other members of the community, share your work, and get help with any questions or challenges you may be facing.
+Click [here](AndroidAlchemist) to join the **Android Alchemists** Discord channel
 
 ## How to Contribute
 
