@@ -4,6 +4,17 @@ Welcome to the Android Alchemists GitHub organization! We are a group of passion
 
 Our goal is to inspire and educate the Android development community, and to share our knowledge and expertise through open source projects, blog posts, and other resources.
 
+## Focus Areas
+Our focus areas include:
+
+**Material Design**: We are constantly updating our skills and knowledge of the latest design guidelines and best practices for implementing Material Design in our apps.
+
+**Performance Optimization**: We prioritize building efficient and smooth-running apps, and are always looking for ways to improve performance and reduce lag.
+
+**Security**: We place a high emphasis on ensuring the security and privacy of our users' data.
+
+**Accessibility**: We strive to create apps that are accessible to all users, including those with disabilities.
+
 ## Projects
 
 Here are some of our current projects:
